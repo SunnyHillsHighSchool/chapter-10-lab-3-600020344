@@ -1,1 +1,2 @@
 language = "java_swing"
+run = "javac *.java && java Main"
